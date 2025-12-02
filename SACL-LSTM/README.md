@@ -109,3 +109,4 @@ If you are interested in this work and want to use the code in this repository, 
   year         = {2023}
 }
 ```
+export LD_LIBRARY_PATH="/opt/conda/envs/sacl_env/lib:$LD_LIBRARY_PATH"
